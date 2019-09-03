@@ -1,0 +1,2 @@
+# effective-cpp
+note
