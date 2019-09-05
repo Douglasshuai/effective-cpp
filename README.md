@@ -3,7 +3,7 @@ note
 
 item2: prefer consts, enums, and inlines to #defines    
 item3: use const whenever possible    
-item4: make sure that objects are initialized before    
+item4: make sure that objects are initialized before they're used    
 item5: know what functions c++ silently writes and calls    
 item6: explicitly disallow the use of compiler-generated functions you do not want    
 item7: declare destructors virtual in polymorphic base classes    
