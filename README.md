@@ -2,7 +2,6 @@
 note
 
 item2: prefer consts, enums, and inlines to #defines    
-item3: use const whenever possible    
 item4: make sure that objects are initialized before they're used    
 item5: know what functions c++ silently writes and calls    
 item6: explicitly disallow the use of compiler-generated functions you do not want    
@@ -16,10 +15,8 @@ item15: provide access to raw resources in resource-managing classes
 item16: use the same form in corresponding uses of new and delete    
 item17: store newed objects in smart pointers in standalone statements   
 item18: make interfaces easy to use correctly and hard to use incorrectly   
-item19: treat class design as type design    
-item20: prefer pass-by-reference-to-const to pass-by-value    
+item19: treat class design as type design      
 item21: don't try to return a reference when you must return an object   
-item22: declare data members private    
 item23: prefer non-member non-friend functions to member functions    
 item24: declare non-member functions when type conversions should apply to all parameters    
 item25: consider support for a non-throwing swap    
