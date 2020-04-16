@@ -137,8 +137,7 @@ item3: understand decltype
 item4: know how to view deduced types       
 item5: prefer auto to explicit type declarations        
 item6: use the explicitly typed initializer idiom when auto deduces undesired types     
-item7: distinguish between () and {} when creating objects      
-item8: prefer nullptr to 0 and NULL     
+item7: distinguish between () and {} when creating objects         
 item9: prefer alias declarations to typedefs        
 item10: prefer scoped enums to unscoped enums       
 item11: prefer deleted functions to private undefined ones      
