@@ -138,11 +138,10 @@ item4: know how to view deduced types
 item5: prefer auto to explicit type declarations        
 item6: use the explicitly typed initializer idiom when auto deduces undesired types     
 item7: distinguish between () and {} when creating objects         
-item9: prefer alias declarations to typedefs        
-item10: prefer scoped enums to unscoped enums       
-item11: prefer deleted functions to private undefined ones      
-item12: declare overriding functions override       
-item13: prefer const_iterators to iterators     
+item9: prefer alias declarations to typedefs     
+item10: prefer scoped enums to unscoped enums        
+item11: prefer deleted functions to private undefined ones       
+item12: declare overriding functions override     
 item14: declare functions noexcept if they won't emit exceptions            
 item15: use constexpr whenever possible     
 item16: make const member functions thread safe     
